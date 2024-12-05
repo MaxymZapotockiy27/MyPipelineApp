@@ -1,0 +1,14 @@
+C:\Users\Maks\TESTAG\MyPipelineApp\bin\Debug\net8.0\MyPipelineApp.exe
+C:\Users\Maks\TESTAG\MyPipelineApp\bin\Debug\net8.0\MyPipelineApp.deps.json
+C:\Users\Maks\TESTAG\MyPipelineApp\bin\Debug\net8.0\MyPipelineApp.runtimeconfig.json
+C:\Users\Maks\TESTAG\MyPipelineApp\bin\Debug\net8.0\MyPipelineApp.dll
+C:\Users\Maks\TESTAG\MyPipelineApp\bin\Debug\net8.0\MyPipelineApp.pdb
+C:\Users\Maks\TESTAG\MyPipelineApp\obj\Debug\net8.0\MyPipelineApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maks\TESTAG\MyPipelineApp\obj\Debug\net8.0\MyPipelineApp.AssemblyInfoInputs.cache
+C:\Users\Maks\TESTAG\MyPipelineApp\obj\Debug\net8.0\MyPipelineApp.AssemblyInfo.cs
+C:\Users\Maks\TESTAG\MyPipelineApp\obj\Debug\net8.0\MyPipelineApp.csproj.CoreCompileInputs.cache
+C:\Users\Maks\TESTAG\MyPipelineApp\obj\Debug\net8.0\MyPipelineApp.dll
+C:\Users\Maks\TESTAG\MyPipelineApp\obj\Debug\net8.0\refint\MyPipelineApp.dll
+C:\Users\Maks\TESTAG\MyPipelineApp\obj\Debug\net8.0\MyPipelineApp.pdb
+C:\Users\Maks\TESTAG\MyPipelineApp\obj\Debug\net8.0\MyPipelineApp.genruntimeconfig.cache
+C:\Users\Maks\TESTAG\MyPipelineApp\obj\Debug\net8.0\ref\MyPipelineApp.dll
